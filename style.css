@@ -129,6 +129,10 @@ main {
     justify-content: center;
     gap: 20px;
 }
+.resource-container a{
+    text-decoration: none;
+    color: black;
+}
 .card {
     height: 330px;
     width: 280px;
